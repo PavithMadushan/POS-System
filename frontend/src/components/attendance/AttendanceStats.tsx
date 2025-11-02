@@ -1,5 +1,5 @@
 import React from 'react';
-import { type AttendanceRecord, type AttendanceStatus } from '../../types/attendance.types';
+import { type AttendanceRecord } from '../../types/attendance.types';
 
 interface AttendanceStatsProps {
   attendance: AttendanceRecord[];

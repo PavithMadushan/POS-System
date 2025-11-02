@@ -1,5 +1,4 @@
 import React from 'react';
-import { TrendingUp } from 'lucide-react';
 
 interface StatsCardProps {
   title: string;
@@ -15,7 +14,6 @@ const StatsCard: React.FC<StatsCardProps> = ({
   value, 
   date, 
   icon,
-  trend,
   chartData 
 }) => {
   return (

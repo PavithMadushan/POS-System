@@ -1,5 +1,5 @@
 import React from 'react';
-import { Check, X } from 'lucide-react';
+import { Check } from 'lucide-react';
 import { type AttendanceRecord, type AttendanceStatus } from '../../types/attendance.types';
 
 interface AttendanceRowProps {

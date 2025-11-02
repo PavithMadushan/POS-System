@@ -1,5 +1,4 @@
-import React, { useState } from 'react';
-import StatsCard from '../components/dashboard/StatsCard';
+import React from 'react';
 import RevenueChart from '../components/dashboard/RevenueChart';
 import OrdersChart from '../components/dashboard/OrdersChart';
 import QuickStats from '../components/dashboard/QuickStats';

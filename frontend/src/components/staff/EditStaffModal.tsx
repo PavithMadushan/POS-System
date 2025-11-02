@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { X, ImageIcon, Edit2, Trash2 } from 'lucide-react';
+import { X, ImageIcon} from 'lucide-react';
 import { type Staff, type StaffFormData } from '../../types/staff.types';
 
 interface EditStaffModalProps {

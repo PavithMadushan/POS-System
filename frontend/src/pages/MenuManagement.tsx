@@ -1,5 +1,5 @@
-import React, { useState, useCallback } from 'react';
-import { Plus, Filter } from 'lucide-react';
+import { useState, useCallback } from 'react';
+import { Plus} from 'lucide-react';
 import CategoryCard from '../components/menu/CategoryCard';
 import MenuItemRow from '../components/menu/MenuItemRow';
 import AddCategoryModal from '../components/menu/AddCategoryModal';

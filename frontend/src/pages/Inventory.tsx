@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Plus } from 'lucide-react';
 import InventoryFilters from '../components/inventory/InventoryFilters';
 import InventoryList from '../components/inventory/InventoryList';

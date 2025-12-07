@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { X, Image as ImageIcon } from 'lucide-react';
 
 interface AddCategoryModalProps {
